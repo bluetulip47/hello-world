@@ -9,5 +9,5 @@ Creativity is intelligence having fun.
 
 ===========
 
-Piping in suprocess:
+Piping in subprocess:
 Instead of hardcoding "|" into a shell Popen (which doesn't work, anyway), set up individual Popens for each command in the chain, and tie them together using the stdout and stdin arguments to the Popen function.
