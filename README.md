@@ -1,9 +1,13 @@
 hello-world
 ===========
 
-Because you can't say "hello, world!" often enough.
+Make it work, make it right, make it fast.
+-- Kent Beck
+
+Creativity is intelligence having fun.
+-- Albert Einstein
 
 ===========
 
-Make it work, make it right, make it fast.
--- Kent Beck
+Piping in suprocess:
+Instead of hardcoding "|" into a shell Popen (which doesn't work, anyway), set up individual Popens for each command in the chain, and tie them together using the stdout and stdin arguments to the Popen function.
