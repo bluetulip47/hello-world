@@ -7,6 +7,9 @@ Make it work, make it right, make it fast.
 Creativity is intelligence having fun.
 -- Albert Einstein
 
+The future is here. It's just not widely distrubited yet.
+-- William Gibson
+
 ===========
 
 Piping in subprocess:
