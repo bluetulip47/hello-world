@@ -10,6 +10,9 @@ Creativity is intelligence having fun.
 The future is here. It's just not widely distrubited yet.
 -- William Gibson
 
+This isn't right, this isn't even wrong.
+-- Wolfgang Pauli
+
 ===========
 
 Piping in subprocess:
